@@ -1,6 +1,6 @@
 {
-  "name": "FT Labs Screens",
-  "description": "A kiosk-enabled Chrome app that ties into the FT Labs Screens system.",
+  "name": "FT Live Screens",
+  "description": "A kiosk-enabled Chrome app that ties into the FT Live instance of the FT Labs Screens system.",
   "version": "0.1",
   "manifest_version": 2,
   "app": {
